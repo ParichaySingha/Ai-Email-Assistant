@@ -8,7 +8,6 @@ public class EmailWriterSbApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(EmailWriterSbApplication.class, args);
-		System.getenv("PORT");
 	}
 
 }
